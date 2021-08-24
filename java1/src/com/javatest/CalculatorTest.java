@@ -10,7 +10,7 @@ public class CalculatorTest {
 	}
 	public static int div(int a,int b)
 	{
-		return a/b;
+		return a-b;
 	}
 	public static int addTrainer(int empId ,String empName)
 	{
